@@ -531,8 +531,15 @@ color:#E1AC66;
      justify-content: center;
      align-items: center;
    }
-   
-  
+
+   .book {
+    width: 30%;
+    padding: 2em;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+   }
+
    
   .ui_intro {
     width: 50%;
@@ -722,6 +729,10 @@ color:#E1AC66;
 
    section#proposal p {
      width: 80%;
+   }
+
+   .book {
+    opacity: 0;
    }
 
    #why p {
