@@ -61,6 +61,14 @@
     transition: all .3s;
    }
 
+   .book {
+    width: 18%;
+    padding: 2em;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+   }
+
    .home_title a {
     text-decoration: none;
    }
